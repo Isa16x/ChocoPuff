@@ -1,0 +1,291 @@
+#repeat{
+    background-image: url(./imagini/can-cats-eat-frosting-scaled.jpg);
+    background-repeat: repeat-x;
+}
+.descriere{
+    
+    width: 95%;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+    }
+.titluPrez{
+    font-size: 40px;
+    width: 95%;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+.carousel_pisici{
+    
+    
+    width: 40%;
+    margin-left: 200px;
+    margin-right: 100px;
+    float:none;
+}
+.titlu_pag_cat{
+    font-size: 60px;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    text-align: center;
+}
+.citat_header{
+    font-size:24px;
+    font-family:  'Trebuchet MS', sans-serif;
+    font-style: italic;
+   
+    text-align: center;
+    background-color: #E27D60;
+}
+.citat_text{
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+.citat_autor{
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+}
+.sursa_citat{
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+}
+.corp_card{
+    background-color: #E8A87C;
+}
+/* .columnsAlign{
+    left: 20px;
+    right:10px;
+    bottom: 20px;
+    top:50px;
+} */
+.body-for-card{
+    text-align: center;
+    
+}.titlu-card{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+.text-card{
+    font-family:'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+.pret-prod{
+    font-family:'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    background-color: white;
+}
+/* .columnsAlign{
+
+} */
+.buton-adaugare-cos{
+    background-color: teal;
+}
+.inregistrare_form{
+    height:600px;
+    width:500px;
+   margin: auto;
+}
+.titlu_info_cont_inregistrare{
+    text-align: center;
+    bottom: 10px;
+}
+.inregistrare_deja_un_cont{
+    margin:auto;
+     width: 300px;
+      height: 100px;
+       padding: 14px 0 16px 0; 
+       border-radius: 3px;
+  	background-color: rgba(0, 0, 0, 0.4);
+      position: relative;
+}
+.buton_login{
+    margin: 10px;
+    position: absolute;
+    top: 40%;
+    margin-left: 40%;
+    margin-right: 50%;
+    text-decoration: none;
+    color: black;
+    background-color: tan;
+    width: 70px;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+}
+.titlu_ai_deja_cont{
+    top: 20%;
+    text-align: center;
+    text-decoration:wavy;
+}
+.send-buton{
+    margin: 10px;
+    top: 40%;
+    margin-left: 42%;
+    margin-right: 50%;
+    text-decoration: none;
+    color: black;
+    background-color: tan;
+    width: 70px;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+}
+.buton_inregistreaza-te{
+    margin: 10px;
+    position: absolute;
+    top: 40%;
+    margin-left: 26%;
+    margin-right: 50%;
+    text-decoration: none;
+    color: black;
+    background-color: tan;
+    width: 140px;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+}
+.status_pisica{
+    font-weight: bold;
+}
+.titlu_admin{
+    font-size: 43px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.text_conturi{
+    text-align: center;
+}
+.titlu_pag_detalii{
+    font-size: 55px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.meniu_client_accordion{
+    margin-left:20%;
+    margin-right: 20%;
+}
+.schimbare_parola_cont{
+    text-align: center;
+    font-size: 17px;
+}
+.buton_parola_send{
+    margin: 10px;
+    /* position: absolute; */
+    top: 40%;
+    margin-left: 45.5%;
+    margin-right: 50%;
+   
+    width: 140px;
+    height: 30px;
+    /* font-weight: bold; */
+    text-align: center;
+    /* border-radius: 1px; */
+}
+.numar_produse{
+    text-align: center;
+    font-size: 25px;
+}
+.container_produse_cos{
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+    margin-right:10%;
+}
+.denumire-cos{
+    text-align: center;
+    font-size: 19px;
+    border-right: 20px;
+}
+.pret-cos{
+    text-align: center;
+    font-size: 19px;
+    border-left: 20px;
+}
+.den_prod_dvs{
+    font-size:20px;
+
+}
+.container-pret-cos{
+    width: 20%;
+    height: 80%;
+    margin-left: 70%;
+    margin-right:10%;
+}
+.submit_comanda_button{
+    margin-left: 46%;
+    font-size: 22px;
+   
+}
+.buton_stergere{
+    width: 20%;
+    margin-left: 40%;
+    
+}
+.buton_stergere_cont{
+    margin: 10px;
+    /* position: absolute; */
+    top: 40%;
+    margin-left: 45.5%;
+    margin-right: 50%;
+   
+    width: 140px;
+    height: 50px;
+    /* font-weight: bold; */
+    text-align: center;
+    /* border-radius: 1px; */
+}
+.butoane-admin-index{
+    margin: 10px;
+    /* position: absolute; */
+    top: 40%;
+    
+    font-size: 22px;
+    width: 90%;
+    height: 50px;
+    /* font-weight: bold; */
+    text-align: center;
+}
+.butoane-admin-last{
+    margin: 10px;
+    /* position: absolute; */
+    top: 40%;
+    margin-left: 34.5%;
+    margin-right: 50%;
+   
+    width: 90%;
+    height: 50px;
+    /* font-weight: bold; */
+    text-align: center;
+    font-size: 22px;
+}
+.container-mare{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.butoane_modificare_admin_cont{
+    margin-left: 30%;
+    width: 17%;
+
+}
+.butoane_modificare_admin_cont_right{
+    width: 17%;
+    margin-left:5%;
+}
+.butoane_modificare_admin_cont_centered{
+    margin-left: 41%;
+    width: 17%;
+}
