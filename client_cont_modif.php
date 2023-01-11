@@ -187,8 +187,8 @@
 
                         $mailer->Host = 'smtp.gmail.com';
                         $mailer->SMTPAuth = true;
-                        $mailer->Username = 'test11@gmail.com';
-                        $mailer->Password = 'test11';
+                        $mailer->Username = 'test22@gmail.com';
+                        $mailer->Password = 'test212';
                         $mailer->SMTPSecure = 'tls';
                         $mailer->Port = 587;
 
